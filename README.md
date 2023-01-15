@@ -3,7 +3,7 @@
 
 This template is for a simple ai chat bot for a custom channel, it's easy to customize, use, and setup.
 ## Bot made by [Asmodeus#8700](https://discord.com/users/634343118384398347)
-Star for support 
+Star for support.
 
 ## API
 
