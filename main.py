@@ -19,7 +19,7 @@ api_key = os.environ.get('API_KEY')
 
 @ai_chat.event
 async def on_message(message):
-  if message.channel.id == 1060675394585505904 and not message.author.id == ai_chat.application_id:
+  if message.channel.id == 1060675394585505904 and not message.author.id == ai_chat.application_id: #use ur channel id
     try:
         headers = {"Authorization": api_key}
         params = {"user_id": message.author.id, "message": message.content}
