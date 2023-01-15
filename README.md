@@ -2,7 +2,7 @@
 ## _Latest, easy, fast, customizable_
 
 This template is for a simple ai chat bot for a custom channel, it's easy to customize, use, and setup.
-## Bot made by [Asmodeus](https://discord.com/users/634343118384398347)
+## Bot made by [Asmodeus#8700](https://discord.com/users/634343118384398347)
 Star for support 
 
 ## API
@@ -25,8 +25,8 @@ Star for support
 | API | [link](https://rapidapi.com/pgamerxdev/api/random-stuff-api) |
 | Bot dev| [link](https://discord.com/users/634343118384398347) |
 | API dev | [link](https://discord.com/users/587663056046391302) |
-| API KEY | [link]() |
-| Support server (API) | [link](https://api-info.pgamerx.com/manage-key) |
+| API KEY | [link](https://api-info.pgamerx.com/manage-key) |
+| Support server (API) | [link](https://discord.com/invite/4TeGKpSkdN) |
 
 
 _Latest as per 2023_
