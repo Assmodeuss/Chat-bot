@@ -29,4 +29,16 @@ Star for support
 | Support server (API) | [link](https://discord.com/invite/4TeGKpSkdN) |
 
 
+##Setup
+```py
+
+@bot.command()
+async def setup(ctx):
+	async with aiohttp.ClientSession(headers=headervar) as session:
+		param_var = {"BotName":"Indigo", "BotMaster":"CannonBall Chris", "BotAge":69}#....You can find all customizations at: https://rsa-api.xyz > Documentation
+		async with session.post(url=CUSTOMIZATION_URL, params = param_var) as sess:
+			output = await sess.json()
+			await ctx.send(output["message"])
+#Use this command only once. THis command will help your bot to be registered on your api key in the db of api. So, you don't have to pass this information everytime. Its just one time only.
+```
 _Latest as per 2023_
